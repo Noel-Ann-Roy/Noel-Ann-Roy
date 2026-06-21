@@ -1,104 +1,83 @@
-# Hi there, I'm Noel Ann Roy 👋
+# ⚡ AI Systems Online: Welcome, I'm Noel Ann Roy
 
-### AI & Machine Learning Undergraduate at VIT Chennai
+> 🧠 Build. Learn. Deploy. Repeat.
 
-I'm a B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning at VIT Chennai. I enjoy building practical AI applications, solving problems, and developing projects that combine intelligent systems with real-world applications.
-
----
-
-## 🎓 Education
-
-**B.Tech Computer Science Engineering (AI & ML)**
-VIT Chennai
-2024 – 2028
+I'm a Computer Science (AI & ML) student at VIT Chennai, building intelligent applications, exploring modern AI systems, and solving real-world problems through code.
 
 ---
 
-## 💻 Technical Skills
+# 🧬 About Me
 
-### Programming Languages
-
-* Python
-* C++
-* Java
-* JavaScript
-* C
-* SQL
-
-### Web Development
-
-* HTML
-* CSS
-* React
-
-### AI & Machine Learning
-
-* Machine Learning
-* Computer Vision
-* Artificial Intelligence
-
-### Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* Linux
+* 🎓 B.Tech CSE (AI & ML) @ **VIT Chennai**
+* 🤖 Exploring: `LLMs` `RAG` `Machine Learning` `Computer Vision`
+* 💻 Languages: `Python` `C++` `Java` `JavaScript`
+* 🚀 Building AI-powered applications and intelligent systems
+* 📚 Currently learning: `System Design` `Transformers` `Advanced ML`
+* 🎯 Goal: Secure an AI/ML internship at a top company
 
 ---
 
-## 🚀 Projects
+# ⚙️ Current Status
 
-### AI-Based Real-Time Sign Language Recognition System
-
-* Real-time sign language recognition using AI.
-* Adaptive learning mechanisms.
-* Confidence estimation for predictions.
-* Explainable AI concepts.
-
-### AI Tic-Tac-Toe with Minimax Algorithm
-
-* Intelligent AI opponent using Minimax.
-* Move explanations and visualizations.
-* Heatmap-based decision analysis.
-* Built using HTML, CSS, and JavaScript.
-
-### AI Email Generator
-
-* AI-powered email generation application.
-* User-friendly interface.
-* Natural language-based email creation.
+```text
+AI Mode        : ACTIVE
+Learning       : ONGOING
+Projects       : BUILDING
+Coffee Level   : LOW
+Sleep Schedule : COMPILING...
+```
 
 ---
 
-## 🌱 Currently Exploring
+# 🛠 Tech Stack
 
-* Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
+### Languages
+
+`Python` `C++` `Java` `JavaScript` `SQL`
+
+### Frontend
+
+`HTML` `CSS` `React`
+
+### AI / ML
+
+`Machine Learning`
+`Computer Vision`
+`Artificial Intelligence`
+
+### Tools
+
+`Git`
+`GitHub`
+`VS Code`
+
+
+
+
+# 📈 Currently Exploring
+
+* Large Language Models
+* Retrieval-Augmented Generation
 * System Design
-* Advanced Machine Learning Concepts
+* AI Engineering
+
+# 📊 GitHub Analytics
+
+```text
+Repositories : Growing
+Commits      : Loading...
+Ideas        : Infinite
+Bugs         : Undocumented Features
+```
 
 ---
 
-## 📈 Goals
+# 🌐 Connect
 
-* Build impactful AI projects.
-* Gain industry experience through internships.
-* Contribute to innovative AI solutions.
-* Continuously improve problem-solving skills.
+GitHub: github.com/NoeI-Ann-Roy
 
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/NoeI-Ann-Roy
-* LinkedIn: Add your LinkedIn profile here
-* Email: Add your email here
+Portfolio: Coming Soon...
 
 ---
 
-## 💡 Quote
-
-> "Keep learning, keep building, and let curiosity drive innovation."
-
----
-
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me.
+> "Curiosity drives innovation. Code turns it into reality."
