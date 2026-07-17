@@ -8,9 +8,9 @@
 
 ### About
 
-- 🎓 3rd Year Undergraduate, Computer Science (AI & ML), VIT Chennai
-- 🛠️ I build end-to-end technical projects — from systems programming to full-stack AI applications
-- 📫 Open to internship opportunities in AI/ML and Software Engineering
+- 3rd Year Undergraduate, Computer Science (AI & ML), VIT Chennai
+- I build end-to-end technical projects — from systems programming to full-stack AI applications
+- Open to internship opportunities in AI/ML and Software Engineering
 
 ---
 
@@ -31,18 +31,9 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Noel-Ann-Roy&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noel-Ann-Roy&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
-
 ### Connect
 
 <p align="center">
   <a href="https://github.com/Noel-Ann-Roy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="[#](https://www.linkedin.com/in/noel-ann-roy-9734b231b/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
